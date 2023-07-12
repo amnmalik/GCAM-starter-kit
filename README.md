@@ -11,6 +11,7 @@ List of tutorials/webpages/presentations/papers which are essential pre-requisit
 - [ ] [GCAM India video recordings](https://drive.google.com/drive/folders/1WcZxnQgv-mw9-l2x7StJVZUFw-rg_JBU)
 - [ ] [GCAM6.0 related video files](https://gcims.pnnl.gov/community) (this might be a repition to some of the other links but see it anyway)
 - [ ] [GCAM user guide from GCAM documentation](http://jgcri.github.io/gcam-doc/user-guide.html)
+- [ ] [Main code of GCAM on github - under constant development](https://github.com/JGCRI/gcam-core)
 
 After watching the above videos and reading the material the list of things you should be able to do:
 - [ ] Run GCAM, view the output on modelinterface, copy the results of one putput variable in excel
