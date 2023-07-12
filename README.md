@@ -14,7 +14,7 @@ List of tutorials/webpages/presentations/papers which are essential pre-requisit
 - [ ] [Main code of GCAM on github - under constant development](https://github.com/JGCRI/gcam-core)
 
 After watching the above videos and reading the material the list of things you should be able to do:
-- [ ] Run GCAM, view the output on modelinterface, copy the results of one putput variable in excel
+- [ ] Run GCAM, view the output on modelinterface, copy the results of one output variable to excel
 - [ ] Create one csv, change that CSV to XML, add that XML to the model run, see if that XML is correctly integrated into the model.
  
 
