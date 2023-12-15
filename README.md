@@ -12,6 +12,8 @@ List of tutorials/webpages/presentations/papers which are essential pre-requisit
 - [ ] [GCAM6.0 related video files](https://gcims.pnnl.gov/community) (this might be a repition to some of the other links but see it anyway)
 - [ ] [GCAM user guide from GCAM documentation](http://jgcri.github.io/gcam-doc/user-guide.html)
 - [ ] [Main code of GCAM on github - under constant development](https://github.com/JGCRI/gcam-core)
+- [ ] Past modelling papers and working papers from LCE/LCP.
+
 
 After watching the above videos and reading the material the list of things you should be able to do:
 - [ ] Run GCAM, view the output on modelinterface, copy the results of one output variable to excel
