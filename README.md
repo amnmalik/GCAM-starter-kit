@@ -16,5 +16,7 @@ List of tutorials/webpages/presentations/papers which are essential pre-requisit
 After watching the above videos and reading the material the list of things you should be able to do:
 - [ ] Run GCAM, view the output on modelinterface, copy the results of one output variable to excel
 - [ ] Create one csv, change that CSV to XML, add that XML to the model run, see if that XML is correctly integrated into the model.
+- [ ] Run BAU runs for GCAM_national, GCAM_state, and GCAM6.0 (downloaded from GCAM github website)
+- [ ] Generate XMLs for gcamdata package for GCAM_national, GCAM_state, and GCAM6.0 (downloaded from GCAM github website)
  
 
